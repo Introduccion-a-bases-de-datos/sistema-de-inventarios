@@ -41,3 +41,9 @@
 15. ¿Cuáles son los 3 proveedores a los que más se les compró en enero del 2024?
 
 - ![Punto 15](./resultados/15.png 'Resultado punto 15')
+
+16. ¿Cuántas órdenes de compra emitió cada proveedor en el año 2022?
+17. ¿Cuántos proveedores tienen órdenes de compras mayores a 30 millones en el 2023?
+18. ¿Cuál es el centro de costos que tuvo el menor gasto total en el año 2023 y cuál fue ese gasto?
+19. ¿Qué órdenes de compra tienen un valor superior a $1,000,000 y se hicieron entre enero y marzo de 2024?
+20. ¿Cuál es el valor promedio de las órdenes de compra por proveedor y por año?
